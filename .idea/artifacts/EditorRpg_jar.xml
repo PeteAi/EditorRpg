@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EditorRpg:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EditorRpg_jar</output-path>
+    <root id="archive" name="EditorRpg.jar">
+      <element id="module-output" name="EditorRpg" />
+    </root>
+  </artifact>
+</component>
